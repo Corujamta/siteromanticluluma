@@ -131,18 +131,13 @@ export default function MiniSiteFofo() {
                         </p>
                     </div>
 
-                    <div className="message-card">
-                        <h3>E eu amo isso.</h3>
-                        <p>
-                            Amo a forma como tudo parece mais bonito quando penso em você.
-                            Esse contador não marca só tempo: ele marca momentos com ocê.
-                        </p>
-                    </div>
+                
                 </div>
 
                 <div className="final-box">
                     <p className="final-title">
                         Obrigado por existir e por tornar tudo mais especial. 🌷✨
+                        E o texto não foi feito po IA 🤡 KKKKKKKKKKK
                     </p>
                 </div>
             </motion.div>
