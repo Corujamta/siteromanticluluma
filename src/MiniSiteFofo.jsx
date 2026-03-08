@@ -136,8 +136,8 @@ export default function MiniSiteFofo() {
 
                 <div className="final-box">
                     <p className="final-title">
-                        Obrigado por existir e por tornar tudo mais especial. 🌷✨
-                        E o texto não foi feito po IA 🤡 KKKKKKKKKKK
+                        Obrigado por existir e por tornar tudo mais especial. 🌷✨ <br/> 
+                        Não é IA 🤡 KKKKKK
                     </p>
                 </div>
             </motion.div>
